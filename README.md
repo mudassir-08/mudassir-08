@@ -40,6 +40,96 @@
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="240"/>
 </p>
 
+<table>
+<tr>
+
+<td width="60%">
+
+## ◈ Who I Am
+
+AI/ML Engineer and Computer Science undergraduate specializing in **Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs), Computer Vision, Deep Learning, and autonomous intelligent systems**.
+
+I focus on building **real-world AI products**, including RAG pipelines, transformer-based architectures, and agentic workflows that integrate reasoning, memory, and tool usage.
+
+My work revolves around:
+- Designing scalable AI systems
+- Building production-grade ML pipelines
+- Engineering LLM-powered applications
+- Developing autonomous AI agents
+- Researching next-generation GenAI systems
+
+I actively work with **PyTorch, Hugging Face, FastAPI, LangChain, and vector databases**, turning research into deployable systems.
+
+</td>
+
+<td width="40%">
+
+<p align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="220"/>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+
+<br><br>
+
+<hr style="border: 1px solid #444;">
+
+<br><br>
+
+<table>
+<tr>
+
+<td width="60%" valign="middle">
+
+## ◈ About Me
+
+🎓 AI/ML Engineer & CS student at University of Mianwali (CGPA: 3.58/4.0)
+
+🤖 Focused on Generative AI, NLP, LLMs, CV, and Deep Learning
+
+⚙️ Built RAG pipelines, transformers, and AI agents
+
+🚀 Experienced with PyTorch, Hugging Face, FastAPI, LangChain
+
+🔬 Interested in AI research and production ML systems
+
+💡 Passionate about intelligent automation and real-world AI solutions
+ 
+
+</td>
+
+<td width="40%" valign="middle" align="center">
+
+<div style="display:flex; flex-direction:column; justify-content:center; align-items:center; height:100%;">
+
+<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1000&q=80"
+     width="340"
+     style="border-radius:14px;" />
+
+<br><br>
+
+<!-- Language Buttons -->
+<div style="line-height:0; font-size:0; margin:0; padding:0;" align="center">
+
+<img src="https://img.shields.io/badge/Python-★★★★☆-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/C++-★★★★☆-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-★★★★☆-336791?style=flat-square"/>
+<img src="https://img.shields.io/badge/Java-★★★☆☆-ED8B00?style=flat-square"/>
+
+</div>
+
+</div>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -151,6 +241,7 @@ FOCUS AREAS:
   <img src="https://img.shields.io/badge/Experimentation-E67E22?style=for-the-badge"/>
 </p>
 
+
 ---
 
 # 📦  PROJECT-BASED SKILL EXTRACTION
@@ -208,11 +299,36 @@ FOCUS AREAS:
 # 📊  LIVE GITHUB INTELLIGENCE
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudassir-08&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mudassir-08&theme=radical" />
+<!-- PROFILE DETAILS -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudassir-08&theme=radical"
+     width="85%" />
+
+<br><br>
+
+<!-- STATS -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mudassir-08&theme=radical"
+     width="35%" />
+
+<br><br>
+
+<!-- LAST 2 IN ONE LINE -->
+<table>
+<tr align="center">
+
+<td width="30%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mudassir-08&theme=radical"
+     width="95%"/>
+</td>
+
+<td width="30%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudassir-08&theme=radical&utcOffset=5"
+     width="95%"/>
+</td>
+
+</tr>
+</table>
+
 </p>
 
 ---
