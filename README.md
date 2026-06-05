@@ -9,6 +9,22 @@
 </p>
 
 <p align="center">
+
+  <a href="https://github.com/mudassir-08">
+    <img src="https://img.shields.io/badge/GitHub-mudassir--08-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/malik-muhammad-mudassir-iqbal-21906336a">
+    <img src="https://img.shields.io/badge/LinkedIn-Mudassir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://huggingface.co/Mudassir-08">
+    <img src="https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
+
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mudassir-08&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge"/>
   
   <img src="https://img.shields.io/github/followers/mudassir-08?style=for-the-badge&color=7C3AED"/>
@@ -16,17 +32,7 @@
   <img src="https://img.shields.io/badge/STATUS-AI%20ENGINEER-00E676?style=for-the-badge"/>
 </p>
 
-<p align="center">
 
-  <a href="https://github.com/mudassir-08" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-Mudassir_Iqbal-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/malik-muhammad-mudassir-iqbal-21906336a" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
