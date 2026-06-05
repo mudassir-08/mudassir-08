@@ -16,6 +16,25 @@
   <img src="https://img.shields.io/badge/STATUS-AI%20ENGINEER-00E676?style=for-the-badge"/>
 </p>
 
+<p align="center">
+
+  <a href="https://github.com/mudassir-08" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-Mudassir_Iqbal-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/malik-muhammad-mudassir-iqbal-21906336a" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240"/>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="240"/>
+</p>
+
+
 ---
 
 #  🧠 AI RESEARCH IDENTITY CORE
