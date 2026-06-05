@@ -95,7 +95,7 @@ FOCUS AREAS:
 
 ---
 
-# 🔬  RESEARCH DOMAINS
+# 🔬  RESEARCH AREAS
 
 <p align="center">
 
