@@ -58,7 +58,7 @@ FOCUS AREAS:
 
 ---
 
-# ⚡  CORE AI SKILLS MATRIX (FROM PROJECTS)
+# ⚡  CORE AI SKILLS MATRIX 
 
 <div align="center">
 
@@ -78,25 +78,71 @@ FOCUS AREAS:
 
 # 🚀  AI TOOLING STACK (REAL INDUSTRY LEVEL)
 
-## 🤖 LLM & AI APIs
+## 🛠️ TECH STACK
+
+### 💻 Programming Languages
 <p align="center">
-<img src="https://img.shields.io/badge/OpenAI_API-00ffcc?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Claude_API-ff4d4d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Groq_API-ffcc00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-## 📚 AI FRAMEWORKS
+### 🧠 AI & Machine Learning
 <p align="center">
-<img src="https://img.shields.io/badge/HuggingFace-ff8800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-00c3ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SmolAgents-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative_AI-FF1493?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-7C4DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transformers-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CNNs-E91E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Agents-00FF88?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FFD600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PEFT-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LoRA-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/QLoRA-3F51B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transfer_Learning-26A69A?style=for-the-badge"/>
 </p>
 
-## 🧠 CORE ML STACK
+### 🤖 Frameworks & Libraries
 <p align="center">
-<img src="https://img.shields.io/badge/PyTorch-ff0066?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorFlow-ff8800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ScikitLearn-00bfff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-00C3FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APIs-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=for-the-badge"/>
+</p>
+
+### 🔬 Research Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Research-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Literature_Review-2980B9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model_Evaluation-16A085?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Experimentation-E67E22?style=for-the-badge"/>
 </p>
 
 ---
