@@ -172,9 +172,8 @@ FOCUS AREAS:
 
 ---
 
-# 🚀  AI TOOLING STACK (REAL INDUSTRY LEVEL)
 
-## 🛠️ TECH STACK
+# 🛠️ TECH STACK
 
 ### 💻 Programming Languages
 <p align="center">
